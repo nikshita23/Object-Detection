@@ -1,5 +1,5 @@
 # Object-Detection
-Object Detection Using YOLOV4
+- Object detection using YoloV4
 
-Implement an object detector which identifies the classes of the objects in an image.
+- Implementing an object detector which identifies the classes of the objects in an image.
 
